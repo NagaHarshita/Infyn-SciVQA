@@ -32,14 +32,17 @@ To run the main logic of the service:
 python main.py
 ```
 
----
-
-## Coming Soon
-
-Details related to the following will be added shortly:
-
-* Finetuning Strategy & Code
-* Model Weights
-* Ensemble Strategy
-
 [Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling](https://aclanthology.org/2025.sdp-1.23/) (Movva & Marupaka, sdp 2025)
+
+## Citation
+
+```bibtex
+@inproceedings{borisova2025scivqa,
+  title={SciVQA 2025: Overview of the first scientific visual question answering shared task},
+  author={Borisova, Ekaterina and Rauscher, Nikolas and Rehm, Georg},
+  booktitle={Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)},
+  pages={182--210},
+  year={2025}
+}
+```
+
